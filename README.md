@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours en quatre chapitres consacré à la construction de portefeuilles Bitcoin, les descripteurs et la synchronisation de chaîne est disponible dans [docs/fr/](docs/fr/).
+
 # The Bitcoin Dev Kit
 
 <div align="center">
